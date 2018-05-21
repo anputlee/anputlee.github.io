@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[原来有些东西是可以嗖的一下消失的]]></title>
+    <url>%2Fa6ea62f.html</url>
+    <content type="text"><![CDATA[不知道为什么，最近感觉时间过得特别慢。 每天回到家第一件事情还是打开电脑，东瞧瞧西瞅瞅，但又觉得没有什么事情可以做。结束了一天的学习，也就是打打游戏，看看网站，当年刚接触编程的兴趣已经完全丧失，取而代之的是无穷无尽的空虚。即使折腾了这个看上去还不错的博客，但每次看到它还是觉得心里空空的。望着前面的显示屏，这台陪我度过了3个年头的电脑好像跟着我的思维慢慢变老。从以前的Scratch，到现在的Android Studio，经过无数次重装系统，应该也走到了尽头。 一动笔，应该是一动键盘，我就想不出有什么可写的。 该停了。 如果没有无悔的青春，你还可以选择认真的老去。]]></content>
+      <tags>
+        <tag>时光</tag>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F4a17b156.html</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>入门</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+</search>

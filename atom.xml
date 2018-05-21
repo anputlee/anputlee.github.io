@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>落雪的网络日志</title>
+  
+  <subtitle>我记得你喜欢我，也可能是我记反了</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://anputlee.github.io/"/>
+  <updated>2018-05-21T12:04:33.239Z</updated>
+  <id>http://anputlee.github.io/</id>
+  
+  <author>
+    <name>anputlee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>原来有些东西是可以嗖的一下消失的</title>
+    <link href="http://anputlee.github.io/a6ea62f.html"/>
+    <id>http://anputlee.github.io/a6ea62f.html</id>
+    <published>2018-05-20T12:30:00.000Z</published>
+    <updated>2018-05-21T12:04:33.239Z</updated>
+    
+    <content type="html"><![CDATA[<p>不知道为什么，最近感觉时间过得特别慢。</p><p>每天回到家第一件事情还是打开电脑，东瞧瞧西瞅瞅，但又觉得没有什么事情可以做。结束了一天的学习，也就是打打游戏，看看网站，当年刚接触编程的兴趣已经完全丧失，取而代之的是无穷无尽的空虚。<br><a id="more"></a><br>即使折腾了这个看上去还不错的博客，但每次看到它还是觉得心里空空的。望着前面的显示屏，这台陪我度过了3个年头的电脑好像跟着我的思维慢慢变老。从以前的Scratch，到现在的Android Studio，经过无数次重装系统，应该也走到了尽头。</p><p>一动笔，应该是一动键盘，我就想不出有什么可写的。</p><p>该停了。</p><blockquote><p>如果没有无悔的青春，你还可以选择认真的老去。</p></blockquote><iframe src="//music.163.com/outchain/player?type=2&id=461080452&auto=0&&height=66" width="330" height="86" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不知道为什么，最近感觉时间过得特别慢。&lt;/p&gt;
+&lt;p&gt;每天回到家第一件事情还是打开电脑，东瞧瞧西瞅瞅，但又觉得没有什么事情可以做。结束了一天的学习，也就是打打游戏，看看网站，当年刚接触编程的兴趣已经完全丧失，取而代之的是无穷无尽的空虚。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="时光" scheme="http://anputlee.github.io/tags/%E6%97%B6%E5%85%89/"/>
+    
+      <category term="生活" scheme="http://anputlee.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://anputlee.github.io/4a17b156.html"/>
+    <id>http://anputlee.github.io/4a17b156.html</id>
+    <published>2018-04-28T05:19:00.000Z</published>
+    <updated>2018-05-13T11:54:02.303Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> hexo deploy</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><p><img src="/images/ds1.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="博客" scheme="http://anputlee.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="入门" scheme="http://anputlee.github.io/tags/%E5%85%A5%E9%97%A8/"/>
+    
+      <category term="Hexo" scheme="http://anputlee.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
