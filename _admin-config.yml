@@ -1,0 +1,9 @@
+options:
+  lineNumbers: false
+  spellcheck: false
+  imagePrefix: ''
+  askImageFilename: true
+editor:
+  lineNumbers: false
+  inputStyle: contenteditable
+  spellcheck: false
