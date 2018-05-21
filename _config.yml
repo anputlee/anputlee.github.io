@@ -86,7 +86,6 @@ deploy:
 
 backup:
     type: git
-    message: Source update.
     repository:
       coding: git@git.coding.net:anputlee/anputlee.coding.me.git,source
       github: git@github.com:anputlee/anputlee.github.io.git,source
